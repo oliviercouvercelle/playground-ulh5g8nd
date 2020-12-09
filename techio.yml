@@ -1,0 +1,16 @@
+title: Les bases
+plan:
+- title: Introduction
+  statement: markdowns/web.md
+
+- title: Internet
+  statement: markdowns/internet.md
+
+- title: Le web
+  statement: markdowns/web.md
+
+- title: Le fonctionnement du réseau
+  statement: markdowns/reseau.md
+
+- title: Les protocoles et langages du web
+  statement: markdowns/web.md
