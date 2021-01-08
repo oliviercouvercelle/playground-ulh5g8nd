@@ -1,0 +1,29 @@
+<header>
+        <h1>Villes de Belgique</h1>
+</header>
+<aside>
+        <img alt="Liege" src="images/TE-Collage_Liege.png"  width="500" height="600" >
+</aside>
+        <article>
+            <header>
+                <h2>Liège</h2>
+                <p>Liège est une ville francophone de l'est de la Belgique. Elle est le chef-lieu de la province de Liège et la capitale économique de la Wallonie. De 972 à 1795, elle fut la capitale de la Principauté de Liège.</p>
+            <header>
+            <section>
+                <h3>Topographie</h3>
+                <p>La ville se situe au carrefour de trois zones géographiques naturelles : au nord, la Hesbaye (160 à 200 m), une des principales zones agricoles de Belgique ; à l’est, le Pays de Herve (200 à 320 m), un paysage plus vallonné et arboré, grande région fruitière ; au sud, les plateaux du Condroz (200 à 280 m), portes de l’Ardenne où dominent landes et forêts et, du haut de ses 694 m, le point de plus haute altitude en Belgique, le signal de Botrange. Le sous-sol est caractérisé par la présence de la Faille du midi, ligne de fracture encore sismiquement active, qui explique le risque sismique et notamment le tremblement de terre de Liège du 8 novembre 19833, dont les dégâts ont été estimés à 73 500 000 € bien que la magnitude du séisme ait été modérée (magnitude Ml=5.0).<p>
+                <p>Le territoire de la ville est formé pour une partie importante des plaines alluviales de la Meuse, fleuve qui déroule ses méandres sur 950 km depuis le plateau de Langres en France jusqu'aux Pays-Bas où il se lie au Rhin pour se jeter dans la mer du Nord, ainsi que des plaines de deux de ses affluents, l’Ourthe et la Vesdre.</p>
+                <p>La superficie de la Ville de Liège est de 6 939 hectares (94e rang des communes de Belgique) occupée à 28 % par des zones urbanisées (habitat divers, commerces, bureaux…), à 22 % par des zones non cadastrées (cours d’eau et voiries publiques), à 21 % par des zones boisées, à 11 % par des zones agricoles et à 5 % par des zones industrielles.</p>
+            </section>
+            <section>
+                <h3>Hydrographie</h3>
+                <p>La Meuse traverse Liège suivant une direction générale sud-ouest/nord-est, sur une longueur de quelque 12 km entièrement canalisée. Au niveau de la vieille ville, la plaine alluviale du fleuve reste étroite (largeur moyenne de 1,3 km). La ville est également traversée par l'Ourthe et par la Vesdre, qui arrivent du sud-est, et par la Légia à l'ouest, aujourd'hui entièrement souterraine.</p>
+                <p>Outre ces fleuves et rivières, la ville comporte plusieurs canaux : le canal Albert, inauguré en 1939 et porté, en 1997, à 9 000 tonnes=, qui permet de rejoindre l'estuaire de l'Escaut en partant de l'île Monsin ; la Dérivation qui remplace plusieurs bras de la Meuse et de l'Ourthe pour favoriser la navigation et réduire les inondations ; et le canal de l'Ourthe, vestige d'un projet de canal entre la Meuse et la Moselle.</p>
+                <p>Autrefois, la Meuse et l'Ourthe se divisaient en de nombreux bras qui émaillaient la cité, mais ils furent progressivement comblés et devinrent notamment l'avenue Blonden, les boulevards d'Avroy, Piercot et de la Sauvenière, les rues de l'Université et de la Régence pour la rive gauche de la Meuse, les boulevards Saucy et de la Constitution en Outremeuse ainsi que les boulevards de Douai, de Froidmont, Frankignoul, Raymond Poincaré et Émile de Laveleye pour la rive droite.</p>
+                <p>Le creusement de la Dérivation et la rectification du cours de la Meuse le long du boulevard Frère-Orban au cours du XIXe siècle ont fixé l'actuel aspect hydrographique de la ville.</p>
+                <p>La ville a été marquée par de nombreuses inondations dont les plus importantes sont celles de 1571, 1647, 1740, 1850, 1880 et 1926.</p>
+        </article>
+<footer>
+    <p>On retrouve le perron liégeois sur le blason de la ville, mais aussi sur celui de la province de Liège, celui de la principauté de Liège ou encore sur de nombreux logotypes représentant les institutions liégeoises.</p>
+    <p>En 2007, la ville de Liège s'est dotée d'un logo pour remplacer les armoiries sur ses courriers, outils de communication, véhicules et drapeaux. Ce dernier, censé représenter les différents atouts logistiques, évoque le perron.</p>
+</footer>

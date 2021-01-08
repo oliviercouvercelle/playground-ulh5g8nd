@@ -1,16 +1,20 @@
-title: Les bases
+title: Exercices HTML
 plan:
 - title: Introduction
-  statement: markdowns/web.md
-
-- title: Internet
-  statement: markdowns/internet.md
-
-- title: Le web
-  statement: markdowns/web.md
-
-- title: Le fonctionnement du réseau
-  statement: markdowns/reseau.md
-
-- title: Les protocoles et langages du web
-  statement: markdowns/web.md
+  statement: markdowns/welcome.md
+- title: Balises sans attribut
+  statement: markdowns/no_att_tag.md
+- title: Balises avec attributs
+  statement: markdowns/att_tag.md
+- title: Composition de balise
+  statement: markdowns/combination.md
+- title: La sémantique
+  statement: markdowns/semantic.md
+- title: Les formulaires
+  statement: markdowns/forms.md
+projects:
+  first-project:
+    root: /html
+    runner:
+      name: php
+      version: latest
